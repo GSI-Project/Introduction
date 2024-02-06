@@ -25,7 +25,7 @@ https://github.com/orgs/test5277/projects/1
 點開內容
 ![image](https://github.com/test5277/Introduction/assets/89649071/4efaf831-ea14-4266-aec0-7400053d2be3)
 
-點 edit 血更多詳細敘述
+點 edit 撰寫更多詳細敘述
 ![image](https://github.com/test5277/Introduction/assets/89649071/53e812a2-b00e-484f-b66f-49f1f92d6c61)
 
 按 update comment
